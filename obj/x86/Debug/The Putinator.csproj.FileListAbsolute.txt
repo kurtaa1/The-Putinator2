@@ -1,0 +1,55 @@
+C:\Users\Hule\documents\visual studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\Content\Cruz.xnb
+C:\Users\Hule\documents\visual studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\Content\Gladiator_Kvinna_Klar.xnb
+C:\Users\Hule\documents\visual studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\Content\Gladiator_Man_Klar.xnb
+C:\Users\Hule\documents\visual studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\Content\Hillary.xnb
+C:\Users\Hule\documents\visual studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\Content\Sanders.xnb
+C:\Users\Hule\documents\visual studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\Content\Trump.xnb
+C:\Users\Hule\documents\visual studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\The Putinator.exe
+C:\Users\Hule\documents\visual studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\The Putinator.pdb
+C:\Users\Hule\documents\visual studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Hule\documents\visual studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Hule\documents\visual studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Hule\documents\visual studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Hule\documents\visual studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Hule\documents\visual studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Hule\documents\visual studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Hule\documents\visual studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Hule\documents\visual studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Hule\documents\visual studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Hule\documents\visual studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Hule\documents\visual studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Hule\documents\visual studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Hule\documents\visual studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Hule\documents\visual studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Hule\documents\visual studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Hule\documents\visual studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Hule\documents\visual studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Hule\documents\visual studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Hule\documents\visual studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Hule\documents\visual studio 2015\Projects\The Putinator\The Putinator\obj\x86\Debug\The Putinator.csprojResolveAssemblyReference.cache
+C:\Users\Hule\documents\visual studio 2015\Projects\The Putinator\The Putinator\obj\x86\Debug\The Putinator.exe
+C:\Users\Hule\documents\visual studio 2015\Projects\The Putinator\The Putinator\obj\x86\Debug\The Putinator.pdb
+C:\Users\Hule\documents\visual studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\Content\TextFont.xnb
+C:\Users\Hule\documents\visual studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\Content\Centaurt.xnb
+C:\Users\Hule\documents\visual studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\Content\Charlemagne Std Fet.xnb
+C:\Users\Hule\documents\visual studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\Content\Charlemagne Std.xnb
+C:\Users\Hule\documents\visual studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\Content\Times New Romant.xnb
+C:\Users\Hule\documents\visual studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\Content\Trajan Pro Normal.xnb
+C:\Users\Hule\documents\visual studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\Content\Trajan Pro Regular.xnb
+C:\Users\Hule\documents\visual studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\Content\Trajan Pro.xnb
+C:\Users\Hule\documents\visual studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\Content\Lithos Pro Normal.xnb
+C:\Users\Hule\documents\visual studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\Content\Lithos Pro Regular.xnb
+C:\Users\Hule\documents\visual studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\Content\Lithos Pro.xnb
+C:\Users\Hule\documents\visual studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\Content\Flagga2.xnb
+C:\Users\Hule\documents\visual studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\Content\WhiteHouse.xnb
+C:\Users\Hule\Documents\Visual Studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\Content\Explosion.xnb
+C:\Users\Hule\Documents\Visual Studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\Content\Bomb.xnb
+C:\Users\Hule\Documents\Visual Studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\Content\Intro.xnb
+C:\Users\Hule\Documents\Visual Studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\Content\NationalSång.wma
+C:\Users\Hule\Documents\Visual Studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\Content\NationalSång.xnb
+C:\Users\Hule\Documents\Visual Studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\Content\stridMusik.xnb
+C:\Users\Hule\Documents\Visual Studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\Content\Intro2.wma
+C:\Users\Hule\Documents\Visual Studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\Content\Intro2.xnb
+C:\Users\Hule\Documents\Visual Studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\Content\StridMusik2.wma
+C:\Users\Hule\Documents\Visual Studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\Content\StridMusik2.xnb
+C:\Users\Hule\Documents\Visual Studio 2015\Projects\The Putinator\The Putinator\bin\Windows\x86\Debug\Content\boom.xnb

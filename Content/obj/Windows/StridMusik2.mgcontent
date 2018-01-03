@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Hule/Documents/Visual Studio 2015/Projects/The Putinator/The Putinator/Content/StridMusik2.mp3</SourceFile>
+  <SourceTime>2016-06-02T20:06:49.9775991+02:00</SourceTime>
+  <DestFile>C:/Users/Hule/Documents/Visual Studio 2015/Projects/The Putinator/The Putinator/Content/bin/Windows/StridMusik2.xnb</DestFile>
+  <DestTime>2017-06-03T23:02:56.1323847+02:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2016-03-08T06:31:16+01:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2016-03-08T06:31:16+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/Hule/Documents/Visual Studio 2015/Projects/The Putinator/The Putinator/Content/bin/Windows/StridMusik2.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

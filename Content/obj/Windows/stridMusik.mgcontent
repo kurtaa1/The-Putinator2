@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Hule/Documents/Visual Studio 2015/Projects/The Putinator/The Putinator/Content/stridMusik.wav</SourceFile>
+  <SourceTime>2016-06-02T19:41:33.534042+02:00</SourceTime>
+  <DestFile>C:/Users/Hule/Documents/Visual Studio 2015/Projects/The Putinator/The Putinator/Content/bin/Windows/stridMusik.xnb</DestFile>
+  <DestTime>2016-06-02T19:58:59.2220589+02:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2016-03-08T06:31:16+01:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2016-03-08T06:31:16+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

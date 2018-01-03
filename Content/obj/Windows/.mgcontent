@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Hule/Documents/Visual Studio 2015/Projects/The Putinator/The Putinator/Content/Hillary.png</File>
+    <File>C:/Users/Hule/Documents/Visual Studio 2015/Projects/The Putinator/The Putinator/Content/Gladiator_Man_Klar.png</File>
+    <File>C:/Users/Hule/Documents/Visual Studio 2015/Projects/The Putinator/The Putinator/Content/Sanders.png</File>
+    <File>C:/Users/Hule/Documents/Visual Studio 2015/Projects/The Putinator/The Putinator/Content/Trump.png</File>
+    <File>C:/Users/Hule/Documents/Visual Studio 2015/Projects/The Putinator/The Putinator/Content/Gladiator_Kvinna_Klar.png</File>
+    <File>C:/Users/Hule/Documents/Visual Studio 2015/Projects/The Putinator/The Putinator/Content/Cruz.png</File>
+    <File>C:/Users/Hule/Documents/Visual Studio 2015/Projects/The Putinator/The Putinator/Content/Trajan Pro.spritefont</File>
+    <File>C:/Users/Hule/Documents/Visual Studio 2015/Projects/The Putinator/The Putinator/Content/Flagga2.jpg</File>
+    <File>C:/Users/Hule/Documents/Visual Studio 2015/Projects/The Putinator/The Putinator/Content/WhiteHouse.jpg</File>
+    <File>C:/Users/Hule/Documents/Visual Studio 2015/Projects/The Putinator/The Putinator/Content/Explosion.png</File>
+    <File>C:/Users/Hule/Documents/Visual Studio 2015/Projects/The Putinator/The Putinator/Content/Bomb.png</File>
+    <File>C:/Users/Hule/Documents/Visual Studio 2015/Projects/The Putinator/The Putinator/Content/NationalSång.mp3</File>
+    <File>C:/Users/Hule/Documents/Visual Studio 2015/Projects/The Putinator/The Putinator/Content/StridMusik2.mp3</File>
+    <File>C:/Users/Hule/Documents/Visual Studio 2015/Projects/The Putinator/The Putinator/Content/Intro2.mp3</File>
+    <File>C:/Users/Hule/Documents/Visual Studio 2015/Projects/The Putinator/The Putinator/Content/boom.wav</File>
+  </SourceFiles>
+</SourceFileCollection>

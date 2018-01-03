@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Hule/Documents/Visual Studio 2015/Projects/The Putinator/The Putinator/Content/Trajan Pro.spritefont</SourceFile>
+  <SourceTime>2016-05-22T20:16:00.2915268+02:00</SourceTime>
+  <DestFile>C:/Users/Hule/Documents/Visual Studio 2015/Projects/The Putinator/The Putinator/Content/bin/Windows/Trajan Pro.xnb</DestFile>
+  <DestTime>2017-06-03T23:02:48.9781892+02:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2016-03-08T06:31:16+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2016-03-08T06:31:16+01:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
